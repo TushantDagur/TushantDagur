@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TushantDagur
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently a Student, pursuing BCA from Chandigarh University.
+- 🌱 I’m currently a Student, pursuing MCA from Chandigarh University.
 - 📫 How to reach me - Tushantdagur125@gmail.com  
 
            
