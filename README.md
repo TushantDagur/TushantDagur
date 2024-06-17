@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TushantDagur
-- 👀 I’m interested in Ethical Hacking
+- 👀 interested in Data Science, Data Visualization.
 - 🌱 I’m currently a Student, pursuing MCA from Chandigarh University.
 - 📫 How to reach me - Tushantdagur125@gmail.com  
 
